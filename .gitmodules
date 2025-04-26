@@ -1,0 +1,9 @@
+[submodule "myblog/themes/devise"]
+	path = myblog/themes/devise
+	url = https://github.com/austingebauer/devise.git
+[submodule "myblog/LoveIt"]
+	path = myblog/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
+[submodule "myblog/themes/LoveIt"]
+	path = myblog/themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
